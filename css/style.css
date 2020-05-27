@@ -1,28 +1,22 @@
 h1 {
-  color: orange;
-  text-align: left;
-  font-family: helvetica
+  color: rgba(6, 190, 247, 0.616);
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
 h2 {
   font-style: bold;
-  text-align: left;
-  color: rgba(0, 195, 255, 0.329);
+  text-align: center;
+  color: rgba(48, 255, 21, 0.877);
 }
 h3 {
   font-family: Arial;
-  color: rgba(4, 71, 7, 0.521)
-}
-p {
-  font-family: helvetica;
-  color: rgba(71, 4, 49, 0.308)
-
+  color: rgba(4, 71, 7, 0.521);
+  text-align: center;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-  position: center;
+body {
+  background: bisque;
 }
 
 ul {
