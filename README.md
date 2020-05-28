@@ -11,4 +11,4 @@ Webpage of the Tahiti resort. It's a magical place.
 * HTML
 * GitHub pages
 * command line
-*
+

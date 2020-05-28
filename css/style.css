@@ -1,23 +1,23 @@
 h1 {
-  color: rgba(6, 190, 247, 0.616);
-  text-align: center;
+  color: rgba(6, 247, 98, 0.616);
+  text-align: left;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
 h2 {
-  font-style: bold;
-  text-align: center;
+  font-style: italic;
+  text-align: left;
   color: rgba(48, 255, 21, 0.877);
 }
 h3 {
   font-family: Arial;
-  color: rgba(4, 71, 7, 0.521);
-  text-align: center;
+  color: rgba(71, 4, 4, 0.521);
+  text-align: left;
 }
 
 body {
-  background: bisque;
-  text-align: center;
+  background:beige;
+  text-align: left;
 }
 
 ul {
