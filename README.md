@@ -12,3 +12,5 @@ Webpage of the Tahiti resort. It's a magical place.
 * GitHub pages
 * command line
 
+## Link
+* https://jnsmelinda.github.io/resort
